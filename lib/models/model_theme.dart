@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../utils/color.dart';
+
 class ThemeModel {
   final String name;
   final Color primary;
